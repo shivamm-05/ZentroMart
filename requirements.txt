@@ -1,0 +1,7 @@
+python-dotenv>=1.0
+openai>=1.40
+numpy>=1.26
+pandas>=2.0
+fastembed>=0.3
+gnani-vachana
+gradio>=4.44   # only needed for the demo web page (app.py)
